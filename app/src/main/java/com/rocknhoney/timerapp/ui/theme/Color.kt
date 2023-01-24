@@ -1,4 +1,4 @@
-package com.yougov.aevum.ui.theme
+package com.rocknhoney.timerapp.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

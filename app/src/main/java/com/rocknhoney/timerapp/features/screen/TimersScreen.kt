@@ -14,8 +14,8 @@ import androidx.compose.ui.platform.testTag
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.yougov.aevum.components.Timer
-import com.yougov.aevum.components.TimerText
+import com.rocknhoney.timerapp.ui.components.Timer
+import com.rocknhoney.timerapp.ui.components.TimerText
 import com.rocknhoney.timerapp.features.viewmodel.TimerUiState
 import com.rocknhoney.timerapp.features.viewmodel.TimerViewModel
 

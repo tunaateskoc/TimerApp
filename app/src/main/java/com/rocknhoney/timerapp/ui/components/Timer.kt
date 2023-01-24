@@ -1,4 +1,4 @@
-package com.yougov.aevum.components
+package com.rocknhoney.timerapp.ui.components
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material.Button
@@ -11,8 +11,6 @@ import androidx.compose.ui.platform.testTag
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.rocknhoney.timerapp.ui.components.TimeInput
-import com.rocknhoney.timerapp.ui.components.TimeInputType
 
 /**
  * @param onButtonClicked is used to inform button clicking events of the timer.

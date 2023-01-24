@@ -1,4 +1,4 @@
-package com.yougov.aevum.components
+package com.rocknhoney.timerapp.components
 
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material.MaterialTheme
@@ -8,6 +8,8 @@ import androidx.compose.ui.platform.testTag
 import androidx.compose.ui.test.*
 import androidx.compose.ui.test.junit4.createComposeRule
 import androidx.test.ext.junit.runners.AndroidJUnit4
+import com.rocknhoney.timerapp.ui.components.TimeInput
+import com.rocknhoney.timerapp.ui.components.TimeInputType
 import org.junit.Rule
 import org.junit.Test
 import org.junit.runner.RunWith

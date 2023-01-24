@@ -1,4 +1,4 @@
-package com.yougov.aevum.components
+package com.rocknhoney.timerapp.ui.components
 
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.Text
